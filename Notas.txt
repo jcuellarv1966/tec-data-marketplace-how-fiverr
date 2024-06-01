@@ -1,0 +1,4 @@
+Desarrollar EditGig.jsx, para visualizar y editar un Gig especifico, enlazandolo con Gigs.jsx
+En Homepage.jsx, cambiar carousel de Gigs, para que muestre las categorias, con datos estaticos de data.js
+En Messages.jsx, en lugar de una img asset, deben mostrarse las imgs y el username de los sellers and buyers
+Fix the Slides en gigDetails.jsx, para que imgs esten proporcionadas, y no se vean descuadradas y con espacios vacios

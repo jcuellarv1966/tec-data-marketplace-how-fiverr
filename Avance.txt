@@ -1,0 +1,39 @@
+https://github.com/gift56/Fiverr-clone/commits/main?branch=main&qualified_name=refs%2Fheads%2Fmain+Empieza+Frontend&before=30f4539345f0a2f2825a270e46c0c0ccee033577+350
+
+1 parent b0307f2
+commit afff9f6	done fetching datas			Agregar campos en componente GigCards, camios en pagina Gigs
+
+https://github.com/gift56/Fiverr-clone/commits/main?branch=main&qualified_name=refs%2Fheads%2Fmain+Empieza+Frontend&before=30f4539345f0a2f2825a270e46c0c0ccee033577+315
+
+1 parent 40943db
+commit ff909da	working on single gig page		Mostrar Stars en componente GigDetails, trabajar con Reviews
+
+https://github.com/gift56/Fiverr-clone/commits/main?branch=main&qualified_name=refs%2Fheads%2Fmain+Empieza+Frontend&before=30f4539345f0a2f2825a270e46c0c0ccee033577+280
+
+1 parent ce6defd
+commit 586294d	it worked fine				Cambios estilos tailwind en Reviews, generar endPoints de Orders
+
+https://github.com/gift56/Fiverr-clone/commits/main?branch=main&qualified_name=refs%2Fheads%2Fmain+Empieza+Frontend&before=30f4539345f0a2f2825a270e46c0c0ccee033577+245
+
+1 parent 37e8eaa
+commit 34e1922	it worked				Cambios en pagina Message, empezar Mobile View
+
+https://github.com/gift56/Fiverr-clone/commits/main?branch=main&qualified_name=refs%2Fheads%2Fmain+Empieza+Frontend&before=30f4539345f0a2f2825a270e46c0c0ccee033577+140
+
+1 parent dc3b8b4
+commit f18b150	working on message mobile view		Cambiar estilos Tailwind en pagina Add, Generar pagina Pay para Stripe
+
+https://github.com/gift56/Fiverr-clone/commits/main?branch=main&qualified_name=refs%2Fheads%2Fmain+Empieza+Frontend&before=30f4539345f0a2f2825a270e46c0c0ccee033577+105
+
+1 parent c01567f
+commit 0d5f36d	done working on orders page		Cambios en pagina Orders, Intergrar reducers y endpoints en pagina Add
+
+https://github.com/gift56/Fiverr-clone/commits/main?branch=main&qualified_name=refs%2Fheads%2Fmain+Empieza+Frontend&before=30f4539345f0a2f2825a270e46c0c0ccee033577+70
+
+1 parent 4d398d5
+commit 81febd5	changing methods of posting my data	Agregar Formik y authuser a pagina Add, 
+
+https://github.com/gift56/Fiverr-clone/commits/main?branch=main&qualified_name=refs%2Fheads%2Fmain+Empieza+Frontend&before=30f4539345f0a2f2825a270e46c0c0ccee033577+70
+
+1 parent 204d666
+commit 90047e8	changing methods of posting my data	Cambiar values y uploads en pagina Add, cambiar funciones de pagina Add
